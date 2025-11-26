@@ -10,3 +10,5 @@ while True:
     weather_data = read_excel_file(Config.XLSX_PATH)
     print("Pobrałem dane")
     time.sleep(10)
+
+#print (1)
